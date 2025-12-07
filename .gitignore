@@ -26,3 +26,6 @@ wheels/
 *.swo
 *~
 .ipynb_checkpoints/
+
+# Large data files
+*.csv
